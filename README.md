@@ -1,1 +1,1 @@
-The data used for The dataset used for machine learning, 'merged_data', is made in R during data preparation. Be sure to run the code in R and the 'merged_data' file will automatically download in your destination map (the map where the R file is located in).
+The dataset used for machine learning, 'merged_data', is made in R during data preparation. Be sure to run the code in R and the 'merged_data' file will automatically download in your destination map (the map where the R file is located in).
